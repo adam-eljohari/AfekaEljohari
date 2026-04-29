@@ -11,4 +11,4 @@ https://adam-eljohari.github.io/AfekaEljohari/
 - Las Vegas
 - Japan
 
-האתר נבנה באמצעות HTML ו-CSS בלבד.
+האתר נבנה באמצעות HTML ו-CSS בלבד.# AfekaEljohari
