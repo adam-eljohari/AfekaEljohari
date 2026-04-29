@@ -1,0 +1,28 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+table {
+    margin: auto;
+    width: 70%;
+    background-color: white;
+}
+
+th {
+    background-color: lightblue;
+}
+
+td, th {
+    padding: 10px;
+}
+
+a {
+    color: darkred;
+    font-weight: bold;
+}
